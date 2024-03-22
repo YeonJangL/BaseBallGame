@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "864344791661",
+    "firebase_url": "https://mygamedatabase-d3ec6-default-rtdb.firebaseio.com",
+    "project_id": "mygamedatabase-d3ec6",
+    "storage_bucket": "mygamedatabase-d3ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864344791661:android:f64e42b2a19d9a49d57d64",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UIExample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OeQ_AtrSGmmvjSS1RgAePWhtMrOzpO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
